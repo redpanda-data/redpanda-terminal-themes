@@ -1,0 +1,26 @@
+# Redpanda Dark — warm reddish-brown background, red/orange dominant
+# https://github.com/redpanda-data/terminal-themes
+
+background = #1c1210
+foreground = #f0e6e0
+cursor-color = #e24328
+cursor-text = #1c1210
+selection-background = #4a2e24
+selection-foreground = #f5f5f5
+
+palette = 0=#2c1c18
+palette = 1=#e24328
+palette = 2=#48bb78
+palette = 3=#f77923
+palette = 4=#6172f3
+palette = 5=#ea4a3e
+palette = 6=#45ade8
+palette = 7=#d4c0b8
+palette = 8=#6b4e44
+palette = 9=#f9944f
+palette = 10=#68d391
+palette = 11=#eaaa08
+palette = 12=#8098f9
+palette = 13=#ee9281
+palette = 14=#6ebfed
+palette = 15=#f5ebe6

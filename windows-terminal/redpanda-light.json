@@ -1,0 +1,23 @@
+{
+  "name": "Redpanda Light",
+  "background": "#f5ebe6",
+  "foreground": "#1c1210",
+  "cursorColor": "#c1331a",
+  "selectionBackground": "#f0c4b8",
+  "black": "#1c1210",
+  "red": "#c1331a",
+  "green": "#25855a",
+  "yellow": "#c55a10",
+  "blue": "#3538cd",
+  "purple": "#cd372c",
+  "cyan": "#115d88",
+  "white": "#6b4e44",
+  "brightBlack": "#4a2e24",
+  "brightRed": "#e24328",
+  "brightGreen": "#38a169",
+  "brightYellow": "#f77923",
+  "brightBlue": "#444ce7",
+  "brightPurple": "#ea4a3e",
+  "brightCyan": "#1c9be3",
+  "brightWhite": "#2c1c18"
+}

@@ -1,0 +1,34 @@
+# Redpanda Light — warm light background, red/orange dominant
+# https://github.com/redpanda-data/terminal-themes
+
+[colors.primary]
+background = "#f5ebe6"
+foreground = "#1c1210"
+
+[colors.cursor]
+cursor = "#c1331a"
+text = "#f5ebe6"
+
+[colors.selection]
+background = "#f0c4b8"
+text = "#1c1210"
+
+[colors.normal]
+black = "#1c1210"
+red = "#c1331a"
+green = "#25855a"
+yellow = "#c55a10"
+blue = "#3538cd"
+magenta = "#cd372c"
+cyan = "#115d88"
+white = "#6b4e44"
+
+[colors.bright]
+black = "#4a2e24"
+red = "#e24328"
+green = "#38a169"
+yellow = "#f77923"
+blue = "#444ce7"
+magenta = "#ea4a3e"
+cyan = "#1c9be3"
+white = "#2c1c18"

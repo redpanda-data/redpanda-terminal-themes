@@ -1,0 +1,23 @@
+{
+  "name": "Redpanda Dark",
+  "background": "#1c1210",
+  "foreground": "#f0e6e0",
+  "cursorColor": "#e24328",
+  "selectionBackground": "#4a2e24",
+  "black": "#2c1c18",
+  "red": "#e24328",
+  "green": "#48bb78",
+  "yellow": "#f77923",
+  "blue": "#6172f3",
+  "purple": "#ea4a3e",
+  "cyan": "#45ade8",
+  "white": "#d4c0b8",
+  "brightBlack": "#6b4e44",
+  "brightRed": "#f9944f",
+  "brightGreen": "#68d391",
+  "brightYellow": "#eaaa08",
+  "brightBlue": "#8098f9",
+  "brightPurple": "#ee9281",
+  "brightCyan": "#6ebfed",
+  "brightWhite": "#f5ebe6"
+}
